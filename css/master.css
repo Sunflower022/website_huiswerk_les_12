@@ -1,0 +1,103 @@
+header {
+  background-color: lightblue;
+  color : darkblue;
+}
+
+footer {
+  background-color: lightgreen;
+  color: darkgreen;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centreren {
+  text-align: center;
+}
+
+.bloem {
+  height: 150px;
+  width: 150px;
+  margin: auto;
+}
+
+td {
+  width: 150px;
+  height : 150px;
+  text-align: center;
+  font-size: 20px;
+}
+
+#R1K1 {
+  background-color: RGB(255,0,0);
+  color: springgreen;
+}
+
+#R1K2 {
+  background-color: RGB(0,255,0);
+}
+
+#R1K3 {
+  background-color: RGB(0,0,255);
+  color: hotpink;
+}
+
+#R1K4 {
+  background-color: RGB(255,255,0);
+}
+
+#R2K1 {
+  background-color: RGB(200,0,0);
+  color: dodgerblue;
+}
+
+#R2K2 {
+  background-color: RGB(0,200,0);
+}
+
+#R2K3 {
+  background-color: RGB(0,0,200);
+  color: orange;
+}
+
+#R2K4 {
+  background-color: RGB(200,200,0);
+}
+
+#R3K1 {
+  background-color: RGB(150,0,0);
+  color: turquoise;
+}
+
+#R3K2 {
+  background-color: RGB(0,150,0);
+}
+
+#R3K3 {
+  background-color: RGB(0,0,150);
+  color: yellow;
+}
+
+#R3K4 {
+  background-color: RGB(150,150,0);
+}
+
+#R4K1 {
+  background-color: RGB(100,0,0);
+  color: white;
+}
+
+#R4K2 {
+  background-color: RGB(0,100,0);
+}
+
+#R4K3 {
+  background-color: RGB(0,0,100);
+  color: red;
+}
+
+#R4K4 {
+  background-color: RGB(100,100,0);
+}
